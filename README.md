@@ -23,3 +23,23 @@ Coming!
 - Repo: https://github.com/joedvorak/Current-Monitor Pages: https://joedvorak.github.io/Current-Monitor/
 - Repo: https://github.com/joedvorak/thermal-cup Pages: https://joedvorak.github.io/thermal-cup/
 - Repo: https://github.com/joedvorak/Robots Pages: https://joedvorak.github.io/Robots/
+
+# Formatting Help
+
+[GitHub README.md Formatting Guide] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Steps to create GitHub Pages
+Simplifed for this class
+2. Create a GitHub Repository
+3. Create a README.md file for the project (this is your design report)
+4. Click on Settings (horizontal bar)
+5. Click on Pages (vertical bar)
+6. Click on box under source and select main. Then click Save.
+7. Select a Theme if you want.
+8. Wait several mintues for the website to refresh. Click on the Pages link.
+9. Put the pages link at the top of the README.md for easy access from the repository.
+
+## Hints
+- You can use the Wiki to build the Markdown formatting much easier. The buttons give you the formatting codes and preview lets you look at the outcome immediately.
+- You can upload images to the repository and link to them there (or a sub-directory)
+- Your programming code should also be uploaded to the GitHub repository. 
+
