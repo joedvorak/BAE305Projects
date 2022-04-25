@@ -26,17 +26,18 @@ Coming!
 
 # Formatting Help
 
-[GitHub README.md Formatting Guide] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[GitHub README.md Formatting Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ## Steps to create GitHub Pages
 Simplifed for this class
-2. Create a GitHub Repository
-3. Create a README.md file for the project (this is your design report)
-4. Click on Settings (horizontal bar)
-5. Click on Pages (vertical bar)
-6. Click on box under source and select main. Then click Save.
-7. Select a Theme if you want.
-8. Wait several mintues for the website to refresh. Click on the Pages link.
-9. Put the pages link at the top of the README.md for easy access from the repository.
+
+1. Create a GitHub Repository
+2. Create a README.md file for the project (this is your design report)
+3. Click on Settings (horizontal bar)
+4. Click on Pages (vertical bar)
+5. Click on box under source and select main. Then click Save.
+6. Select a Theme if you want.
+7. Wait several mintues for the website to refresh. Click on the Pages link.
+8. Put the pages link at the top of the README.md for easy access from the repository.
 
 ## Hints
 - You can use the Wiki to build the Markdown formatting much easier. The buttons give you the formatting codes and preview lets you look at the outcome immediately.
