@@ -1,6 +1,14 @@
 # BAE305Projects
 This is a list of links to the GitHub sites of former BAE 305 Projects
 
+## 2023
+- Repo: [https://github.com/joedvorak/Vending-Machine](https://github.com/joedvorak/Vending-Machine)
+  - Pages:[https://joedvorak.github.io/Vending-Machine/](https://joedvorak.github.io/Vending-Machine/)
+- Repo: [https://github.com/joedvorak/PortableWashingMachine_BAE305-Project](https://github.com/joedvorak/PortableWashingMachine_BAE305-Project)
+  - Pages: [https://joedvorak.github.io/PortableWashingMachine_BAE305-Project/](https://joedvorak.github.io/PortableWashingMachine_BAE305-Project/)
+- Repo: [https://github.com/joedvorak/Hot-Cocoa-Maker-BAE305](https://github.com/joedvorak/Hot-Cocoa-Maker-BAE305)
+  - Pages: [https://joedvorak.github.io/Hot-Cocoa-Maker-BAE305/](https://joedvorak.github.io/Hot-Cocoa-Maker-BAE305/)
+ 
 ## 2022
 - Repo: https://github.com/joedvorak/TheCatsitter_BAE305
   - Pages: https://joedvorak.github.io/TheCatsitter_BAE305/
