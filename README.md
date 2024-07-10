@@ -1,6 +1,14 @@
 # BAE305Projects
 This is a list of links to the GitHub sites of former BAE 305 Projects
 
+## 2024
+- Repo: [https://github.com/joedvorak/BAE305-SP24-Project-Claw](https://github.com/joedvorak/BAE305-SP24-Project-Claw)
+  - Pages:[https://joedvorak.github.io/BAE305-SP24-Project-Claw/](https://joedvorak.github.io/BAE305-SP24-Project-Claw/)
+- Repo: [https://github.com/joedvorak/Final-Project-24-Auto-Fish](https://github.com/joedvorak/Final-Project-24-Auto-Fish)
+  - Pages:[https://joedvorak.github.io/Final-Project-24-Auto-Fish/](https://joedvorak.github.io/Final-Project-24-Auto-Fish/)
+- Repo: [https://github.com/joedvorak/BAE305-SP24-FinalProject-Palmer-nator](https://github.com/joedvorak/BAE305-SP24-FinalProject-Palmer-nator)
+  - Pages:[https://joedvorak.github.io/BAE305-SP24-FinalProject-Palmer-nator/](https://joedvorak.github.io/BAE305-SP24-FinalProject-Palmer-nator/)
+
 ## 2023
 - Repo: [https://github.com/joedvorak/Vending-Machine](https://github.com/joedvorak/Vending-Machine)
   - Pages:[https://joedvorak.github.io/Vending-Machine/](https://joedvorak.github.io/Vending-Machine/)
